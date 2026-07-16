@@ -1,7 +1,3 @@
-<p align="center">
-<a href="https://github.com/sandhya86-d">
-<img src="./banner.png" width="100%">
-</a>
 </p>
 <p align="center">
   <img src="./banner.png" alt="Sandhya Dugginaboina Banner" width="100%">
