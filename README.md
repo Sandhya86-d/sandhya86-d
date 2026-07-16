@@ -40,9 +40,9 @@ I believe every dataset has a story to tell, and I enjoy discovering insights th
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python" height="50"/>
+<img src="https://skillicons.dev/icons?i=python" height="45"/>
 
-<img src="https://skillicons.dev/icons?i=mysql" height="50"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
 
 </p>
 
