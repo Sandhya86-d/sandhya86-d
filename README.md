@@ -69,8 +69,6 @@ I believe every dataset has a story to tell, and I enjoy discovering insights th
 
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-
 </p>
 
 ---
