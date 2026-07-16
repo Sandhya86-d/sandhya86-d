@@ -6,11 +6,11 @@
 <h1 align="center">Hi 👋, I'm Sandhya Dugginaboina</h1>
 
 <h3 align="center">
-Aspiring Data Analyst | SQL • Python • Power BI • Excel
+Data Analyst | Business Intelligence| SQL • Python • Power BI • Excel
 </h3>
 
 <p align="center">
-Passionate about transforming raw data into meaningful insights and building interactive dashboards that support better business decisions.
+Passionate about transforming raw data into actionable insights through analytics, visualization, and business intelligence.
 </p>
 
 ---
